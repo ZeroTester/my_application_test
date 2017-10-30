@@ -1,3 +1,5 @@
 # my_application_test
 
-My test is here.
+This is a test.
+
+END of test
