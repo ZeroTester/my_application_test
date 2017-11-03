@@ -1,3 +1,3 @@
-# my_application_test
+# My test application
 
-My test is here.
+This is just a test.
