@@ -1,3 +1,3 @@
 # My test application
 
-This is just a test.
+This is just a test repository.
